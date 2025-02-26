@@ -6,9 +6,9 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
  
- It is a branch of engineering where a software will be developed using well tested engineering principals, procedures and their respective methods.
-
-It is important in the sense that it ensures the creation of reliable, scalabe and efficient software solutions that meet the needs of businesses and consumers.It also allows for secure , well performing and high quality software.
+   It is a branch of engineering where a software will be developed using well tested engineering principals, procedures and their respective methods.
+   
+   It is important in the sense that it ensures the creation of reliable, scalabe and efficient software solutions that meet the needs of businesses and consumers.It also allows for secure , well performing and high quality software.
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
